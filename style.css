@@ -6,7 +6,8 @@
 	text-align: center;
 }
 body {
-	width: 90%;
+	width: 100%;
+	height:auto;
     margin: 40px auto;
   
 }
@@ -21,7 +22,7 @@ h1 {
 }
 img
 {
-	width:100%;
+	width:70%;
 	height: auto;
 	 padding-left: 100px;
   padding-right: 200px;
