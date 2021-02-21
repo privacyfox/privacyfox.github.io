@@ -8,14 +8,14 @@
 body {
 	width: 100%;
 	height:auto;
-    margin: 40px auto;
+    
   
 }
 h1 {
   position: relative;
   text-align: left;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left:10;
+  padding-right:10;
   color: #353535;
   font-size: 50px;
   font-family: "Cormorant Garamond", serif;
@@ -30,7 +30,7 @@ img
 
 h3 {
   position: relative;
-  text-align: left;
+  text-align: justify;
   padding-left: 100px;
   padding-right: 100px;
   color: #353535;
@@ -43,9 +43,9 @@ p {
   font-size:100%;
   text-align:justify;
   font-size: 18px;
-  padding-left: 100px;
-  padding-right: 100px;
-  color: #676767;
+  padding-left: 10;
+  padding-right: 10;
+  color: Black;
 }
 .frame {
   width: 90%;
