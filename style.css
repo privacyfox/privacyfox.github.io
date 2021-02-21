@@ -26,6 +26,7 @@ h3 {
 	width:90%;
 	margin:40px auto;
     padding-right: 40px auto;
+    overflow-x: auto;
     text-align:justify;
 }
 p {
