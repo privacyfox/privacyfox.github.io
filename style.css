@@ -1,6 +1,8 @@
 .head
 {
 	color:blue;
+	padding-left: 100px;
+  padding-right: 100px;
 	text-align: center;
 }
 body {
@@ -9,6 +11,8 @@ body {
 h1 {
   position: relative;
   text-align: left;
+  padding-left: 100px;
+  padding-right: 100px;
   color: #353535;
   font-size: 50px;
   font-family: "Cormorant Garamond", serif;
@@ -17,23 +21,20 @@ h1 {
 h3 {
   position: relative;
   text-align: left;
+  padding-left: 100px;
+  padding-right: 100px;
   color: #353535;
   font-size: 30px;
   font-family: "Cormorant Garamond", serif;
 }
-.table
-{
-	width:90%;
-	margin:40px auto;
-    padding-right: 40px auto;
-    overflow-x: auto;
-    text-align:justify;
-}
+
 p {
   font-family: 'Lato', sans-serif;
   
-  text-align:left;
+  text-align:justify;
   font-size: 18px;
+  padding-left: 100px;
+  padding-right: 100px;
   color: #676767;
 }
 .frame {
