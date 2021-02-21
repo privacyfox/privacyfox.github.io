@@ -6,8 +6,7 @@
 }
 body {
 	width: 100%;
-	height:auto;
-    margin:0;
+	    margin:0;
   
 }
 .inner{
@@ -47,7 +46,7 @@ p {
   font-size:100%;
   text-align:justify;
   font-size: 20px;
-  margin:10px;
+  margin:20px;
   color: Black;
 }
 .frame {
