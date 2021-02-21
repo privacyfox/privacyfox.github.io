@@ -4,7 +4,7 @@
 	text-align: center;
 }
 body {
-  background: #e0e5ec;
+  
 }
 h1 {
   position: relative;
@@ -14,18 +14,23 @@ h1 {
   font-family: "Cormorant Garamond", serif;
 }
 
-h4 {
+h3 {
   position: relative;
-  text-align: center;
+  text-align: left;
   color: #353535;
-  font-size: 20px;
+  font-size: 30px;
   font-family: "Cormorant Garamond", serif;
 }
-
+.table
+{
+	width:80%;
+    padding-left: 20%;
+    text-align:justify;
+}
 p {
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
-  text-align: center;
+  
+  text-align:left;
   font-size: 18px;
   color: #676767;
 }
