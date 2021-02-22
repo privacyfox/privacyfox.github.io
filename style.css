@@ -24,7 +24,7 @@ h1 {
   text-align: left;
   color: #353535;
   font-size: 50px;
-  font-family: "Cormorant Garamond", serif;
+  font-family: Apple chancery;
 }
 img
 {
@@ -116,12 +116,22 @@ background: linear-gradient(0deg, rgba(255,27,0,1) 0%, rgba(251,75,2,1) 100%);
   width:100%;
   transition:800ms ease all;
 }
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
 footer
 {
+	display: block;
 	background-color:#5e5959;
 	color:White;
 	width:100%;
-	height:40px;
+	height:60px;
 	text-align: center;
 	font-size: 5px solid; 
 }
