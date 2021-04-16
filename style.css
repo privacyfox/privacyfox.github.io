@@ -680,7 +680,7 @@ div.tab button:hover {
     height: 50px;
     text-indent: -99999px;
     position: fixed;
-    bottom: -100px;
+    bottom: -80px;
     right: 25px;
     cursor: pointer;
     -webkit-transition: all .7s ease-in-out;
