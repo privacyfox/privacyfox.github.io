@@ -335,7 +335,9 @@
                             <div class="blog-top clearfix">
                                 <h4 class="pull-left">Recent News <a href="#"><i class="fa fa-rss"></i></a></h4>
                             </div><!-- end blog-top -->
-                            
+                            <div align="right">
+				    <button onclick="myFunction()">Toggle dark mode</button
+					    </div>
                             <hr class="invis">
                             <div class="blog-list clearfix">
                                 <div class="blog-box row">
@@ -944,6 +946,17 @@
     <script src="js/tether.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/custom.js"></script>
+
+
+
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+						
 <!-- Cloudflare -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "34411526c9fb4371881cb9b9583e5ad3"}'></script>
 <!-- End Cloudflare-->
