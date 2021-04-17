@@ -20,6 +20,10 @@ body {
     line-height: 26px;
     background-color: #ffffff;
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 
 
