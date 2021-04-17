@@ -672,12 +672,13 @@ div.tab button:hover {
 
 .dmtop {
     background-color: #111111;
-    
+    text-align:center;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     z-index: 9999;
     width: 40px;
     height: 40px;
+    font-size:5;
   
     position: fixed;
     bottom: -80px;
